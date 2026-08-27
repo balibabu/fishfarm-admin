@@ -1,5 +1,5 @@
-const CLOUD_NAME = ''
-const UNSIGNED_UPLOAD_PRESET = ''
+const CLOUD_NAME = 'fxap3lhg'
+const UNSIGNED_UPLOAD_PRESET = 'fishfarm'
 
 export function isCloudinaryConfigured() {
   return Boolean(CLOUD_NAME && UNSIGNED_UPLOAD_PRESET)

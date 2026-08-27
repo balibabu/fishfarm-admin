@@ -21,12 +21,12 @@ import {
 } from 'firebase/firestore'
 
 const FIREBASE_CONFIG = {
-  apiKey: '',
-  authDomain: '',
-  projectId: '',
-  storageBucket: '',
-  messagingSenderId: '',
-  appId: '',
+    apiKey: "AIzaSyANF9EYJ0Ba8M1ePaebJ5wlYBJXo24hcPo",
+    authDomain: "merofishfarm.firebaseapp.com",
+    projectId: "merofishfarm",
+    storageBucket: "merofishfarm.firebasestorage.app",
+    messagingSenderId: "177074178346",
+    appId: "1:177074178346:web:355a299d4f655a7d2f3653"
 }
 
 export function isFirebaseConfigured() {
